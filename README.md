@@ -28,6 +28,9 @@
   <a href = "mailto:ericpso.89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eric-oliveira94/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  
+  Outras Línguas 🌏 :
+[English](https://github.com/ericpso/ericpso/blob/main/Readme.en.md)
 
   <!-- Image -->
  <img align="right" src="https://user-images.githubusercontent.com/86573930/161335623-a0b432d1-2481-419a-b31e-782610aa51ab.png" width="300">
@@ -37,6 +40,7 @@ Me chamo Eric. Formado em Engenharia de Controle e programador em C++, Python e 
 ##### Atualmente :
 * 🌱 buscando novas oportunidades
 * 🔭 Aprendendo html,css 
+* ⚡ Interesses: Machine Learning, SuperResolution, Processamento de Imagens
 
 <!-- Streak stats -->
 <div>
