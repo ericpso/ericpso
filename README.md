@@ -19,7 +19,7 @@
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/eric-oliveira94/" alt="LinkedIn"><img width="45px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/69727594/139465237-0a5c3189-ab93-4a12-a2d1-9dc958db0e6d.png"/></a>
   &#8287;&#8287;&#8287;
-  <a href="mailto:ligiapsoliveira@gmail.com"><img width="45px" alt="E-mail" title="E-mail" src="https://user-images.githubusercontent.com/69727594/139464927-9d110e31-818b-427c-9b9c-687c56fd6861.png"/></a>
+  <a href="mailto:ericpso.89@gmail.com"><img width="45px" alt="E-mail" title="E-mail" src="https://user-images.githubusercontent.com/69727594/139464927-9d110e31-818b-427c-9b9c-687c56fd6861.png"/></a>
   &#8287;&#8287;&#8287;
   </p> -->
 
@@ -33,7 +33,7 @@
 [English](https://github.com/ericpso/ericpso/blob/main/Readme.en.md)
 
   <!-- Image -->
- <img align="right" src="https://user-images.githubusercontent.com/86573930/161335623-a0b432d1-2481-419a-b31e-782610aa51ab.png" width="300">
+ <img align="right" src="https://bafybeia6g3uuxmvr6yis57j3kkwn4gqgsg72nxnkmbnv6uq4iagbtqvksa.ipfs.infura-ipfs.io/" width="500">
 
 ####  👋🏻 Quem sou eu
 Me chamo Eric. Formado em Engenharia de Controle e programador em C++, Python e Script.<br>
@@ -45,7 +45,7 @@ Me chamo Eric. Formado em Engenharia de Controle e programador em C++, Python e 
 <!-- Streak stats -->
 <div>
 <p align="left"> 
- <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ligia-PSO&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&stroke=%23E4405F&fire=20CFDDF9&sideNums=20CFDD&sideLabels=20CFDD&currStreakLabel=20CFDD&ring=%23E4405F&dates=%23E4405F"(https://git.io/streak-stats)> -->
+ <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=ericpso&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&stroke=%23E4405F&fire=20CFDDF9&sideNums=20CFDD&sideLabels=20CFDD&currStreakLabel=20CFDD&ring=%23E4405F&dates=%23E4405F"(https://git.io/streak-stats)> -->
 
 
 
@@ -53,7 +53,6 @@ Me chamo Eric. Formado em Engenharia de Controle e programador em C++, Python e 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericpso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
   <!-- Language distribution -->
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ligia-PSO&layout=compact&langs_count=7&theme=dracula"/> -->
  </p>
     </div>
 <!--
