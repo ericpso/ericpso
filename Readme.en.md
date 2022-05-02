@@ -19,7 +19,7 @@
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/eric-oliveira94/" alt="LinkedIn"><img width="45px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/69727594/139465237-0a5c3189-ab93-4a12-a2d1-9dc958db0e6d.png"/></a>
   &#8287;&#8287;&#8287;
-  <a href="mailto:ligiapsoliveira@gmail.com"><img width="45px" alt="E-mail" title="E-mail" src="https://user-images.githubusercontent.com/69727594/139464927-9d110e31-818b-427c-9b9c-687c56fd6861.png"/></a>
+  <a href="mailto:ericpso.89@gmail.com"><img width="45px" alt="E-mail" title="E-mail" src="https://user-images.githubusercontent.com/69727594/139464927-9d110e31-818b-427c-9b9c-687c56fd6861.png"/></a>
   &#8287;&#8287;&#8287;
   </p> -->
 
@@ -30,7 +30,7 @@
   </div>
 
   <!-- Image -->
- <img align="right" src="https://user-images.githubusercontent.com/86573930/161335623-a0b432d1-2481-419a-b31e-782610aa51ab.png" width="300">
+ <img align="right" src="https://camo.githubusercontent.com/e44f79d37e575de6127cdd17fe2e11e932cacbe106068d85774178f5b0388d00/68747470733a2f2f62616679626569613667337575786d76723679697335376a336b6b776e34677167736737326e786e6b6d626e7636757134696167627471766b73612e697066732e696e667572612d697066732e696f2f" width="500">
 
 ####  👋🏻 Who am I?
 Hi, I'm Eric. I'm graduated in Control and Automation Engineering and progam in C++, Python and Script language.<br>
@@ -42,7 +42,7 @@ Hi, I'm Eric. I'm graduated in Control and Automation Engineering and progam in 
 <!-- Streak stats -->
 <div>
 <p align="left"> 
- <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ligia-PSO&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&stroke=%23E4405F&fire=20CFDDF9&sideNums=20CFDD&sideLabels=20CFDD&currStreakLabel=20CFDD&ring=%23E4405F&dates=%23E4405F"(https://git.io/streak-stats)> -->
+ <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=ericpso&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&stroke=%23E4405F&fire=20CFDDF9&sideNums=20CFDD&sideLabels=20CFDD&currStreakLabel=20CFDD&ring=%23E4405F&dates=%23E4405F"(https://git.io/streak-stats)> -->
 
 
 
@@ -50,7 +50,7 @@ Hi, I'm Eric. I'm graduated in Control and Automation Engineering and progam in 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericpso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
   <!-- Language distribution -->
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ligia-PSO&layout=compact&langs_count=7&theme=dracula"/> -->
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericpso&layout=compact&langs_count=7&theme=dracula"/> -->
  </p>
     </div>
 <!--
